@@ -1,16 +1,15 @@
-# 👋 Hi, I’m Rohan
 
-I’m exploring how data can make sense of complex systems — especially in finance, risk, and policy.
+👋 Hi, I’m Rohan
+I build AI-driven platforms and decision systems that solve complex problems and create measurable business impact.
 
-Right now, I’m focused on applying data science in the BFSI domain:  
-credit, fraud, churn, risk — decisions that actually move money and matter to people.
+Now → Next
+Deepening skills in AI systems design, risk modeling, and economic analysis — preparing for a future where technology, markets, and global systems evolve at exponential speed.
 
-But my lens is shaped by more than just code.  
-I’m drawn to history, economics, and strategic studies — fields that shape how I think about data, decisions, and the systems behind them.
+What I Work On
+Advancing AI for financial decision-making, risk modeling, and economic systems — with a long-term focus on sustainable infrastructure, energy transitions, and the evolving geopolitics of technology.
 
-I care about:  
-- Modeling uncertainty in the real world  
-- The messy intersection of data, power, and human behavior  
-- Building things that are both technically solid and intellectually honest
+Life Outside Code
+Lived in Mumbai, Delhi, and Toronto. Into CrossFit, long-distance cycling, and marathons; fascinated by geoeconomics, geopolitics, and cultural patterns.
 
-Learning in public. Building slowly. Connecting dots.
+Let’s Connect
+📫 rohanchatrath1@gmail.com
