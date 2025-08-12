@@ -1,14 +1,9 @@
-👋 Hi, I’m Rohan --
-This is where I tinker, build, and break things until they work — from AI-driven platforms to decision systems that actually move the needle.
+👋 Hi, I’m Rohan — I tinker, build, and sometimes break things on purpose… because that’s how the best ideas emerge. From AI-driven platforms to decision systems, I’m drawn to projects that actually move the needle.
 
-Now → Next --
-Deepening skills in AI systems design, risk modeling, and economic analysis — preparing for a future where technology, markets, and global systems evolve at exponential speed.
+Now → Next — Leveling up in AI systems design, risk modeling, and economic analysis. I’m preparing for a future where tech, markets, and global systems don’t just change — they accelerate.
 
-What I Work On --
-Advancing AI for financial decision-making, risk modeling, and economic systems — with a long-term focus on sustainable infrastructure, energy transitions, cybersecurity, and the evolving geopolitics of technology.
+What I’m Working On — Building AI for financial decision-making, risk modeling, and economic systems, with an eye on the long game: sustainable infrastructure, energy transitions, cybersecurity, and the shifting geopolitics of technology.
 
-Life Outside Code --
-Lived in Mumbai, Delhi, and Toronto. Into CrossFit, long-distance cycling, and marathons; big on thriller movies, fascinated by defence tech, political science, and machine learning’s role in BFSI.
+Life Outside Code — I’ve called Mumbai, Delhi, and Toronto home. When I’m not buried in algorithms, you’ll find me at CrossFit, cycling long distances, running marathons, or deep in a thriller movie. I’m also fascinated by defence tech, political science, and how machine learning is reshaping BFSI.
 
-Let’s Connect --
-📫 rohanchatrath1@gmail.com
+Let’s Connect — 📫 rohanchatrath1@gmail.com — Always up for swapping ideas, debating big questions, or building something that changes the game.
