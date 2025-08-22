@@ -7,3 +7,12 @@ What I’m Working On — Building AI for financial decision-making, risk modeli
 Life Outside Code — I’ve called Mumbai, Delhi, and Toronto home. When I’m not buried in algorithms, you’ll find me at CrossFit, cycling long distances, running marathons, or deep in a thriller movie. I’m also fascinated by defence tech, political science, and how machine learning is reshaping BFSI.
 
 Let’s Connect — 📫 rohanchatrath1@gmail.com — Always up for swapping ideas, debating big questions, or building something that changes the game.
+
+## 🔧 Tech & Tools
+Python · SQL · Airflow · dbt Core · Spark · BigQuery · AWS (S3/Athena) · FastAPI · scikit-learn · XGBoost · PyTorch · Looker Studio · Tableau · Docker · GitHub Actions
+
+## 📌 Featured Projects
+- E-commerce Data Pipeline (Airflow + BigQuery + dbt) — *in progress*
+- Product Recommendations (ALS + FastAPI) — *in progress*
+- Growth Metrics Analytics (dbt + Looker Studio) — *in progress*
+- AI Search Product Case Study (PRD + KPIs + A/B plan) — *in progress*
