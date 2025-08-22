@@ -11,8 +11,8 @@ Let’s Connect — 📫 rohanchatrath1@gmail.com — Always up for swapping ide
 ## 🔧 Tech & Tools
 Python · SQL · Airflow · dbt Core · Spark · BigQuery · AWS (S3/Athena) · FastAPI · scikit-learn · XGBoost · PyTorch · Looker Studio · Tableau · Docker · GitHub Actions
 
-## 📌 Featured Projects
-- E-commerce Data Pipeline (Airflow + BigQuery + dbt) — *in progress*
-- Product Recommendations (ALS + FastAPI) — *in progress*
-- Growth Metrics Analytics (dbt + Looker Studio) — *in progress*
-- AI Search Product Case Study (PRD + KPIs + A/B plan) — *in progress*
+## 📌 Featured Projects (in progress)
+- E-commerce Data Pipeline — Airflow + BigQuery + dbt
+- Product Recommendations — ALS + FastAPI (Docker/Cloud Run)
+- Growth Metrics & Cohorts — dbt models + Looker Studio dashboard
+- AI Search Case Study — PRD + KPIs + A/B test plan
