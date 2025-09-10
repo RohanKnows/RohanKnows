@@ -1,4 +1,4 @@
-A little about me
+A little about me:
 
 I’m often confused, which makes me curious — so I learn by doing. I’m drawn to machine learning, finance, and the math that connects them.
 
