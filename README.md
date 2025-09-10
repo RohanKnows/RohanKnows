@@ -1,6 +1,7 @@
+A little about me
 
-• I’m often confused, which only makes me curious — so I just do.
-• Drawn to machine learning, finance, and the math that holds them together.
-• You’ll usually find me with coffee in hand, vibe-coding late into the night.
-• I get excited about the future of AI, platform companies, and what they unlock.
-• Beyond that, I lose myself in thrillers, adventures, traveling, and the histories and cultures that shaped us.
+I’m often confused, which makes me curious — so I learn by doing. I’m drawn to machine learning, finance, and the math that connects them.
+
+Most days, you’ll find me coding late, coffee in hand. I’m interested in the future of AI, platform companies, and what they make possible.
+
+Outside of work, I’m into thrillers, history, and getting outdoors — snorkeling, cycling, hiking, or just exploring somewhere new.
